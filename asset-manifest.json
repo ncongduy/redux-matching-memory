@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/redux-matching-memory/static/css/main.fca7207c.chunk.css",
+    "main.js": "/redux-matching-memory/static/js/main.a15c2915.chunk.js",
+    "main.js.map": "/redux-matching-memory/static/js/main.a15c2915.chunk.js.map",
+    "runtime-main.js": "/redux-matching-memory/static/js/runtime-main.5af62358.js",
+    "runtime-main.js.map": "/redux-matching-memory/static/js/runtime-main.5af62358.js.map",
+    "static/js/2.7d87cd91.chunk.js": "/redux-matching-memory/static/js/2.7d87cd91.chunk.js",
+    "static/js/2.7d87cd91.chunk.js.map": "/redux-matching-memory/static/js/2.7d87cd91.chunk.js.map",
+    "static/js/3.15c1acb7.chunk.js": "/redux-matching-memory/static/js/3.15c1acb7.chunk.js",
+    "static/js/3.15c1acb7.chunk.js.map": "/redux-matching-memory/static/js/3.15c1acb7.chunk.js.map",
+    "index.html": "/redux-matching-memory/index.html",
+    "static/css/main.fca7207c.chunk.css.map": "/redux-matching-memory/static/css/main.fca7207c.chunk.css.map",
+    "static/js/2.7d87cd91.chunk.js.LICENSE.txt": "/redux-matching-memory/static/js/2.7d87cd91.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5af62358.js",
+    "static/js/2.7d87cd91.chunk.js",
+    "static/css/main.fca7207c.chunk.css",
+    "static/js/main.a15c2915.chunk.js"
+  ]
+}
